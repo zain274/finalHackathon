@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>817401432129-dgbg3le0cs30ek8n4rcah6u6qe5oth76.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.817401432129-dgbg3le0cs30ek8n4rcah6u6qe5oth76</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbwTBCUde9ptK9QVU3rASBcJTCfCQONAc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>817401432129</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.taskcytrackerapp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>finalpjocet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalpjocet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:817401432129:ios:3492fb22ceeed24ec69ec0</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "817401432129",
+    "project_id": "finalpjocet",
+    "storage_bucket": "finalpjocet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817401432129:android:23d632fcb01a85f6c69ec0",
+        "android_client_info": {
+          "package_name": "com.example.taskcytrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817401432129-l2krmfbrvi9ok0eogug62q1tnmv2rs72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhxS7rQT6Me4bWb53stSARZufmzfgx_CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817401432129-l2krmfbrvi9ok0eogug62q1tnmv2rs72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817401432129-dgbg3le0cs30ek8n4rcah6u6qe5oth76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskcytrackerapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

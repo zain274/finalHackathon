@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>590009829563-lo8sjjqpujnfe4qstrb1q32kg6abcp9a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.590009829563-lo8sjjqpujnfe4qstrb1q32kg6abcp9a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDx8dL2yFY1UFEQIQ153rFkMDMe1QBnz3M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>590009829563</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.taskcytrackerapp</string>
+	<key>PROJECT_ID</key>
+	<string>finalhackthon-bf964</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalhackthon-bf964.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:590009829563:ios:ff5088954cc46860d8c19e</string>
+	<key>DATABASE_URL</key>
+	<string>https://finalhackthon-bf964-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
